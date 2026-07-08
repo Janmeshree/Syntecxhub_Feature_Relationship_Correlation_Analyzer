@@ -4,7 +4,7 @@
 
 Feature Relationship and Correlation Analyzer is an interactive data visualization application built using Python and Streamlit. It allows users to upload any CSV dataset, analyze relationships between numerical features using Pearson and Spearman correlation, visualize the results through heatmaps and pairplots, and generate a downloadable correlation summary report.
 
-**Live Demo:** *(Add your Streamlit deployment link here after deployment.)*
+**Live Demo:** https://syntecxappfeaturerelationshipcorrelationanalyzer-gfdxkappecg4u.streamlit.app (Interactive Web Application)
 
 ---
 
